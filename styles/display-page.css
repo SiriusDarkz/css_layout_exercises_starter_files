@@ -1,0 +1,56 @@
+.main {
+
+width: 800px;
+height: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+border: 1px solid black;
+font-size: 0;
+}
+
+
+.all {
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.green, .blue {
+	height: 200px;
+	width: 50%;
+}
+
+.green{
+	
+	background-color:green;
+
+}
+
+.blue {
+	background-color: blue;
+}
+
+.gray, .black, .orange {
+   height: 300px;
+   width: 33.33%;
+  
+}
+
+.gray {
+
+	background-color:gray;
+}
+
+.black {
+ background-color:black;
+}
+
+.orange {
+ background-color: orange;
+
+}
+
+
+
+
+
